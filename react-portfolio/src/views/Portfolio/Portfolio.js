@@ -36,7 +36,7 @@ function Portfolio () {
               <p className='p'> 
                 Github Repo Link:<br></br> <a href="https://github.com/cjpritch/github-lite">https://github.com/cjpritch/github-lite</a>
               </p>
-              <p className='p'>Live URL: <br></br> <a href="">Filler Text</a></p>
+              <p className='p'>Live URL: <br></br> <a href="https://github-lite-1.herokuapp.com/">https://github-lite-1.herokuapp.com/</a></p>
               <p className='p'>Worked in a group of 5 to create a full stack MERN application, using mongoose and node for the backend, and react, bootstrap, and css for the front end.</p>
               <p className='p'>An application that allows users to sign in and post their git projects and further look for git projects by isolating the posted projects down based on software used.</p>
             </div>
